@@ -1,0 +1,8 @@
+{
+  "name": "equipepanchomobile",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "221e894a"
+}
